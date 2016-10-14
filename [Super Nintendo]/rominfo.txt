@@ -1,0 +1,7 @@
+This is the info for the last game you ran.
+
+File: Super_Bomberman_4_(J).zip Header: Yes
+SUPER BOMBERMAN 4         TYPE:NORMAL   
+INTERLEAVED:No               CHKSUM:OK  
+VIDEO:NTSC    BANK:Hi     CRC32:3BBAEB19
+                                        
